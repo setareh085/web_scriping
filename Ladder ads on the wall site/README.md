@@ -45,8 +45,8 @@ python wall.py
 ```
 
 ## 📄 License
+This project is licensed under the [MIT License](LICENSE).
 
-MIT License
 
 ## 👩‍💻 Author
 Setareh
