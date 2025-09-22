@@ -76,7 +76,7 @@ python scrape_countries.py
 ```
 ## 📄 License
 
-This project is licensed under the [MIT License](CountryDataPredictor/LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## 👩‍💻 Author
