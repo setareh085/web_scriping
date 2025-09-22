@@ -1,34 +1,34 @@
-##✅ Divar Scraper
+# ✅ Divar Scraper
 A simple Python-based scraper for extracting boosted ("نردبان") ads from Divar.
 
-##📂 Project Structure
+---
+
+## 📂 Project Structure
 Divar-Scraper/
-├── wall.py       # Main script for scraping
-├── posts.csv     # Output file with ad titles
-└── README.md     # Documentation
+├── wall.py # Main script for scraping
+├── posts.csv # Output file with ad titles
+└── README.md # Documentation
 
-##⚙️ Requirements
 
-Python 3.10+
+---
 
-#Libraries:
+## ⚙️ Requirements
+- Python 3.10+
+- Libraries:
+  - selenium
+  - csv (built-in)
+  - time (built-in)
 
-selenium
+---
 
-csv (built-in)
-
-time (built-in)
-
-##🚀 Installation
-
+## 🚀 Installation
+```bash
 git clone https://github.com/USERNAME/Divar-Scraper.git
-
 cd Divar-Scraper
-
 pip install selenium
+```
 
-
-##📝 Features
+## 📝 Features
 
 🔍 Scrapes "نردبان" (boosted) ads from Divar
 
@@ -38,16 +38,20 @@ pip install selenium
 
 ❌ Removes duplicates
 
-##📌 Usage
-python wall.py
+## 📌 Usage
 
-##📄 License
+```bash
+python wall.py
+```
+
+## 📄 License
+
 MIT License
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Setareh
 
-##📘 What I Learned
+## 📘 What I Learned
 
 How to use Selenium for web scraping
 
