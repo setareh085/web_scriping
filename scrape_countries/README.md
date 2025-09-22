@@ -39,7 +39,7 @@ cd Country-Scraper
 
 Install dependencies:
 ```bash
-pip install requests beautifulsoup4 mysql-connector-python
+pip install requirements.txt
 ```
 
 ---
