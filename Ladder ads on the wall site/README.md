@@ -48,7 +48,7 @@ python wall.py
 ```
 
 ## 📄 License
-This project is licensed under the [MIT License](./Ladder%20ads%20on%20the%20wall%20site/LICENSE)
+This project is licensed under the [MIT License](LICENSE)
 
 .
 
