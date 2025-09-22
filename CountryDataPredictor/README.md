@@ -60,13 +60,13 @@ CREATE TABLE countries (
 ```
 ## 📝 Features
 
-➕ Scrapes the first 20 countries
+* ➕ Scrapes the first 20 countries
 
-💾 Inserts data into MySQL database
+* 💾 Inserts data into MySQL database
 
-📊 Stores country name, capital, population, and area
+* 📊 Stores country name, capital, population, and area
 
-🧹 Cleans and formats scraped text
+* 🧹 Cleans and formats scraped text
 
 ## 📌 Usage
 
@@ -84,10 +84,10 @@ Setareh
 
 ## 📘 What I Learned
 
-How to scrape data with BeautifulSoup
+* How to scrape data with BeautifulSoup
 
-How to clean and format scraped data
+* How to clean and format scraped data
 
-How to connect Python with MySQL
+* How to connect Python with MySQL
 
-How to insert data programmatically into a database
+* How to insert data programmatically into a database
