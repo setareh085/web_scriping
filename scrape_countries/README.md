@@ -77,7 +77,8 @@ python scrape_countries.py
 ---
 
 ## 📄 License
-MIT License
+This project is licensed under the [MIT License](./LICENSE).
+
 
 ---
 
