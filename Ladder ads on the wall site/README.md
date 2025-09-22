@@ -28,7 +28,7 @@ Divar-Scraper/
 ```bash
 git clone https://github.com/USERNAME/Divar-Scraper.git
 cd Divar-Scraper
-pip install selenium
+pip install requirements.txt
 ```
 
 ## 📝 Features
