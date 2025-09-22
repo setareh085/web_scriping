@@ -1,0 +1,6 @@
+requests==2.32.4
+beautifulsoup4==4.13.4
+bs4==0.0.2
+mysql-connector-python==9.4.0
+scikit-learn==1.7.1
+numpy==2.3.2
