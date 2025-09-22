@@ -22,7 +22,9 @@ time (built-in)
 ##🚀 Installation
 
 git clone https://github.com/USERNAME/Divar-Scraper.git
+
 cd Divar-Scraper
+
 pip install selenium
 
 
