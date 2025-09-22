@@ -6,7 +6,9 @@ A simple Python-based scraper for extracting boosted ("نردبان") ads from D
 ## 📂 Project Structure
 Divar-Scraper/
 ├── wall.py # Main script for scraping
+
 ├── posts.csv # Output file with ad titles
+
 └── README.md # Documentation
 
 
